@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "裂いて",
+  "base_artist": "NELKE",
+  "createdAt": "2026-02-10T04:37:43.267163Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裂いて",
+      "artist": "NELKE",
+      "has_synced": false,
+      "path": "select/pl_01_裂いて_NELKE.txt"
+    }
+  ]
+}
